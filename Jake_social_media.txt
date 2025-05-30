@@ -1,4 +1,13 @@
-﻿||instagram.com^
+# Title: Jake social media
+# Description: Block some shit
+# Homepage: https://github.com/nextstone7/dnsfilters
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Expires: 1 day
+# Last modified: 29 May 2025 13:15 UTC
+# Version: 2025.0529.1315.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 5
+||instagram.com^
 ||facebook.com^
 ||threads.com^
 ||twitter.com^
