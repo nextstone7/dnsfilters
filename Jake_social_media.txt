@@ -7,8 +7,9 @@
 # Version: 2025.0529.1315.01
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 5
+#
 ||instagram.com^
 ||facebook.com^
 ||threads.com^
 ||twitter.com^
-||x.com
+||x.com^
