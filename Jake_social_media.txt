@@ -13,3 +13,4 @@
 ||threads.com^
 ||twitter.com^
 ||x.com^
+||reddit.com^
