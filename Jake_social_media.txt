@@ -3,10 +3,10 @@
 # Homepage: https://github.com/nextstone7/dnsfilters
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 May 2025 13:15 UTC
+# Last modified: 04 Jun 2025 12:26 UTC
 # Version: 2025.0529.1315.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 5
+# Number of entries: 6
 #
 ||instagram.com^
 ||facebook.com^
