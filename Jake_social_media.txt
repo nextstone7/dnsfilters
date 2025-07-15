@@ -9,7 +9,7 @@
 # Number of entries: 6
 #
 ||instagram.com^
-||facebook.com^
+#||facebook.com^
 ||threads.com^
 ||twitter.com^
 ||x.com^
