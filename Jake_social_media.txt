@@ -9,6 +9,8 @@
 # Number of entries: 6
 #
 ||instagram.com^
+instagram.fallback.c10r.facebook.com^
+||cdninstagram.com
 #||facebook.com^
 ||threads.com^
 ||twitter.com^
