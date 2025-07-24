@@ -6,11 +6,11 @@
 # Last modified: 04 Jun 2025 12:26 UTC
 # Version: 2025.0529.1315.01
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 6
+# Number of entries: 8
 #
-||instagram.com^
-instagram.fallback.c10r.facebook.com^
-||cdninstagram.com
+#||instagram.com^
+#instagram.fallback.c10r.facebook.com^
+#||cdninstagram.com
 #||facebook.com^
 ||threads.com^
 ||twitter.com^
