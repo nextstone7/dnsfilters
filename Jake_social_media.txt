@@ -16,3 +16,6 @@
 ||twitter.com^
 ||x.com^
 #||reddit.com^
+||storynavigation.com^
+||insta-stories-viewer.com^
+||twitterviewer.com^
