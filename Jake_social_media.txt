@@ -11,7 +11,7 @@
 #||instagram.com^
 #instagram.fallback.c10r.facebook.com^
 #||cdninstagram.com
-#||facebook.com^
+||facebook.com^
 ||threads.com^
 ||twitter.com^
 ||x.com^
