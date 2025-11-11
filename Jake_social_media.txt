@@ -3,10 +3,10 @@
 # Homepage: https://github.com/nextstone7/dnsfilters
 # Issues: https://github.com/nextstone7/dnsfilters/issues
 # Expires: Never
-# Last modified: 07 Sep 2025 12:12 EST
-# Version: 2025.0907.1
+# Last modified: 11 Nov 2025 6:51 EST
+# Version: 2025.1111.1
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 11
+# Number of entries: 63
 #
 ||instagram.com^
 instagram.fallback.c10r.facebook.com^
@@ -19,3 +19,55 @@ instagram.fallback.c10r.facebook.com^
 ||storynavigation.com^
 ||insta-stories-viewer.com^
 ||twitterviewer.com^
+||www.twitter-viewer.com^
+||snaplytics.io/twitter-viewer^
+||cfjedimaster.github.io/webdemos/tweetimages2^
+||twitter.theinfo.org^
+||www.twillot.com/en^
+||twstalker.com^
+||twiiit.com^
+||www.tweetbinder.com/blog/twitter-viewer^
+||covermevpn.com/top-10-twitter-viewer-tools-to-explore-tweets^
+||onstipe.com/blog/5-free-twitter-viewer-tools-in-2025-for-anonymous-browsing^
+||twitterviewer.net^
+||circleboom.com/twitter-management-tool/twitter-circle-tool/twitter-follower-viewer^
+||www.softwaretestinghelp.com/sotwe-alternatives^
+||twitter-profile-viewer.vercel.app^
+||blog.walls.io/socialmedia/twitter-viewer^
+||whackdigital.com/what-is-a-twitter-viewer-and-how-does-it-work^
+||forum.allinsider.net/threads/twitter-viewer-what-is-it-and-how-to-use-it.132^
+||www.opengraph.xyz^
+||www.trackmyhashtag.com/blog/view-twitter-without-an-account^
+||claptools.com/twitter-profile-viewer^
+||coruzant.com/digital-strategy/twitter-viewer^
+||tweetdelete.net/resources/twitter-profile-viewer-can-you-tell-who-visited-you-on-x^
+||www.wallstag.com/blog/7-free-twitter-viewer-tools-in-2025-for-anonymous-browsing^
+||exportcomments.com^
+||blog.clevguard.com/reviews/best-twitter-viewer^
+||inflact.com/instagram-viewer^
+||mollygram.com^
+||insta-stories-viewer.com^
+||instapv.com^
+||storynavigation.com^
+||www.dolphinradar.com/anonymous-instagram-story-viewer^
+||picuki.site^
+||picuki.site/terms^
+||picuki.site/faq^
+||picuki.site/about^
+||picuki.site/contact^
+||inflact.com/instagram-viewer/stories^
+||inflact.com/instagram-viewer/profile^
+||inflact.com/instagram-viewer/reels^
+||inflact.com/instagram-viewer/highlights^
+||views4you.com/instagram-story-viewer^
+||inflact.com/instagram-viewer/profile^
+||igstories.website^
+||peekviewer.com^
+||easycomment.ai/instagram-story-viewer^
+||gramsnap.com/en^
+||simpliers.com/en/tools/story^
+||en1.savefrom.net/26-instagram-viewer-4hX.html^
+||webstagram.org^
+||www.upgrow.com/instagram-web-viewer^
+||fastdl.app/instagram-anonymously-viewer^
+||insta-stories.ru/en^
