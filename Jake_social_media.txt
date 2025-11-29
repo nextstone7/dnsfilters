@@ -71,4 +71,4 @@ instagram.fallback.c10r.facebook.com^
 ||www.upgrow.com/instagram-web-viewer^
 ||fastdl.app/instagram-anonymously-viewer^
 ||insta-stories.ru/en^
-||snaplytics.io
+||snaplytics.io^
