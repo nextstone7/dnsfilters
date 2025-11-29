@@ -3,10 +3,10 @@
 # Homepage: https://github.com/nextstone7/dnsfilters
 # Issues: https://github.com/nextstone7/dnsfilters/issues
 # Expires: Never
-# Last modified: 11 Nov 2025 6:51 EST
-# Version: 2025.1111.1
+# Last modified: 28 Nov 2025 23:23 EST
+# Version: 2025.1128.1
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 63
+# Number of entries: 64
 #
 ||instagram.com^
 instagram.fallback.c10r.facebook.com^
@@ -71,3 +71,4 @@ instagram.fallback.c10r.facebook.com^
 ||www.upgrow.com/instagram-web-viewer^
 ||fastdl.app/instagram-anonymously-viewer^
 ||insta-stories.ru/en^
+||snaplytics.io
