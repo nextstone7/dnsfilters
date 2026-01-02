@@ -64,11 +64,15 @@ instagram.fallback.c10r.facebook.com^
 ||igstories.website^
 ||peekviewer.com^
 ||easycomment.ai/instagram-story-viewer^
+||twillot.com^
+||easycomment.ai^
 ||gramsnap.com/en^
 ||simpliers.com/en/tools/story^
+||tweetgrok.ai^
 ||en1.savefrom.net/26-instagram-viewer-4hX.html^
 ||webstagram.org^
 ||www.upgrow.com/instagram-web-viewer^
 ||fastdl.app/instagram-anonymously-viewer^
 ||insta-stories.ru/en^
 ||snaplytics.io^
+||archivlyx.com^
