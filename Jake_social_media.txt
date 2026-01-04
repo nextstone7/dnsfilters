@@ -4,8 +4,8 @@
 ! Homepage: https://github.com/nextstone7/dnsfilters
 ! Issues: https://github.com/nextstone7/dnsfilters/issues
 ! Expires: Never
-! Last modified: 4 Jan 2026 03:21EST
-! Version: 2026.0104.3
+! Last modified: 4 Jan 2026 03:22 EST
+! Version: 2026.0104.4
 ! Syntax: Domains (including possible subdomains)
 ! Number of entries: 56
 !
