@@ -3,8 +3,8 @@
 # Homepage: https://github.com/nextstone7/dnsfilters
 # Issues: https://github.com/nextstone7/dnsfilters/issues
 # Expires: Never
-# Last modified: 4 Jan 2026 03:15 EST
-# Version: 2026.0104.1
+# Last modified: 4 Jan 2026 03:18 EST
+# Version: 2026.0104.2
 # Syntax: Domains (including possible subdomains)
 # Number of entries: 56
 
@@ -54,13 +54,13 @@ instagram.fallback.c10r.facebook.com^
 ||peekviewer.com^
 ||twillot.com^
 ||easycomment.ai^
-||gramsnap.com/en^
-||simpliers.com/en/tools/story^
+||gramsnap.com^
+||simpliers.com^
 ||tweetgrok.ai^
-||en1.savefrom.net/26-instagram-viewer-4hX.html^
+||en1.savefrom.net^
 ||webstagram.org^
-||www.upgrow.com/instagram-web-viewer^
-||fastdl.app/instagram-anonymously-viewer^
-||insta-stories.ru/en^
+||upgrow.com^
+||fastdl.app^
+||insta-stories.ru^
 ||snaplytics.io^
 ||archivlyx.com^
