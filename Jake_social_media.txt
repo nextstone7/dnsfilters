@@ -1,13 +1,14 @@
-# Title: Jake social media
-# Description: Block some shit
-# Homepage: https://github.com/nextstone7/dnsfilters
-# Issues: https://github.com/nextstone7/dnsfilters/issues
-# Expires: Never
-# Last modified: 4 Jan 2026 03:18 EST
-# Version: 2026.0104.2
-# Syntax: Domains (including possible subdomains)
-# Number of entries: 56
-
+[Jake's social media blocking]
+! Title: Jake social media
+! Description: Block some shit
+! Homepage: https://github.com/nextstone7/dnsfilters
+! Issues: https://github.com/nextstone7/dnsfilters/issues
+! Expires: Never
+! Last modified: 4 Jan 2026 03:21EST
+! Version: 2026.0104.3
+! Syntax: Domains (including possible subdomains)
+! Number of entries: 56
+!
 ||instagram.com^
 instagram.fallback.c10r.facebook.com^
 ||cdninstagram.com
