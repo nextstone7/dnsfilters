@@ -17,6 +17,7 @@ instagram.fallback.c10r.facebook.com^
 ||twitter.com^
 ||x.com^
 ||reddit.com^
+||quora.com^
 ||storynavigation.com^
 ||insta-stories-viewer.com^
 ||twitterviewer.com^
