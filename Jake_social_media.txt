@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/nextstone7/dnsfilters
 ! Issues: https://github.com/nextstone7/dnsfilters/issues
 ! Expires: Never
-! Last modified: 4 Jan 2026 03:31 EST
-! Version: 2026.0104.6
+! Last modified: 20 Feb 2026 13:39 EST
+! Version: 2026.0220.2
 ! Syntax: AdBlock
-! Number of entries: 59
+! Number of entries: 60
 !
 ||instagram.com^
 instagram.fallback.c10r.facebook.com^
