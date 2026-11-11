@@ -73,4 +73,3 @@ instagram.fallback.c10r.facebook.com^
 ||themeton.com^
 ||inviziogram.com^
 ||sotwe.com^
-||youtube.com^
